@@ -35,9 +35,9 @@
 					}
 				},
 				"url": {
-					"raw": "{{api_url}}/create",
+					"raw": "{{base_url}}/create",
 					"host": [
-						"{{api_url}}"
+						"{{base_url}}"
 					],
 					"path": [
 						"create"
@@ -66,9 +66,9 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "{{api_url}}/users/2",
+					"raw": "{{base_url}}/users/2",
 					"host": [
-						"{{api_url}}"
+						"{{base_url}}"
 					],
 					"path": [
 						"users",
@@ -108,9 +108,9 @@
 					}
 				},
 				"url": {
-					"raw": "{{api_url}}/user/{{id}}",
+					"raw": "{{base_url}}/user/{{id}}",
 					"host": [
-						"{{api_url}}"
+						"{{base_url}}"
 					],
 					"path": [
 						"user",
