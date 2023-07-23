@@ -3,14 +3,14 @@
 	"name": "testenv",
 	"values": [
 		{
-			"key": "api_url",
+			"key": "base_url",
 			"value": "https://reqres.in/api",
 			"type": "default",
 			"enabled": true
 		},
 		{
 			"key": "name",
-			"value": "Vinh Test",
+			"value": "Tho Test",
 			"type": "default",
 			"enabled": true
 		},
